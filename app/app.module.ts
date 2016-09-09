@@ -31,10 +31,7 @@ import './rxjs-extensions';
     HeroDetailComponent,
     HeroesComponent,
     HeroSearchComponent
-  ],
-  providers: [
-    HeroService,
-  ],
+  ],  
   bootstrap: [ AppComponent ]
 })
 export class AppModule {
